@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CalibrazioneDmt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Calibrazioni>
-    <Item Date="2026-01-30T00:00:00+00:00" DeltaA="42" DeltaB="79" />
-  </Calibrazioni>
-</CalibrazioneDmt>

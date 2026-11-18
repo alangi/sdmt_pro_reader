@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Site xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>251109</Name>
+  <Firm>Ground Investigation</Firm>
+  <Customer>ex client</Customer>
+  <Job>some Road</Job>
+  <Tests>
+    <Test Folder="TEST_1" />
+  </Tests>
+</Site>
